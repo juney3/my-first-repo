@@ -1,0 +1,10 @@
+/* Reset the CSS */
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ h1{
+ 	color: red;
+ 	font-size: 1.5em;
+ }
